@@ -475,7 +475,7 @@ body footer a {
     float: left;
     margin-top: 0px;
     text-align: left;
-    margin-left: -202px;
+    margin-left: -161px;
     padding-bottom: 69px;
 
 }
@@ -580,6 +580,10 @@ body form {
     margin-left: -64px;
 
 }
+.photography {
+    padding-bottom: 35px;
+}
+
 
 
 
