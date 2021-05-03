@@ -558,8 +558,35 @@ body form {
     margin-top: 31px;
 }
 .graphic {
-    padding-bottom: 31px;
+    padding-bottom: 41px;
 }
+#firstname {
+    width: 58%;
+}
+#lastname {
+    width: 58%;
+}
+#email {
+    width: 58%;
+}
+#mobile {
+    width: 58%;
+}
+#message {
+    width: 58%;
+    margin-top: -27px;
+}
+#text {
+    margin-left: -64px;
+
+}
+
+
+
+
+
+
+
 
 
 
